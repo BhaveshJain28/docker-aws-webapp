@@ -1,0 +1,26 @@
+# dependencies
+node_modules/
+
+# env files
+.env
+.env.*
+
+# build output
+dist/
+build/
+
+# logs
+*.log
+npm-debug.log*
+
+# coverage
+coverage/
+.nyc_output/
+
+# editor folders
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
