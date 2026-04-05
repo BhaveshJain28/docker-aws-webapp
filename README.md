@@ -73,7 +73,7 @@ graph TD
 
 1. **Clone & Install Dependencies**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/BhaveshJain28/docker-aws-webapp.git
    cd DockerProject
    ```
 
@@ -142,4 +142,4 @@ Distributed under the **ISC License**. See `LICENSE` for more information.
 **BhaveshJain28** - [GitHub](https://github.com/BhaveshJain28)
 
 ---
-*Built with ❤️ for the developer community.*
+*Built with ❤️ for the developer community.*
